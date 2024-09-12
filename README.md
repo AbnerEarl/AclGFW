@@ -86,13 +86,13 @@
 
 
 # ♻️ SS/SSR ACL Files Download：
-* ACL更新地址（**白名单**）：https://raw.githubusercontent.com/AbnerEarl/AclGFW/master/banAD.acl
-* ACL更新地址（**黑名单**）：https://raw.githubusercontent.com/AbnerEarl/AclGFW/master/gfwlist-banAD.acl
-* ACL更新地址（**全局**）：https://raw.githubusercontent.com/AbnerEarl/AclGFW/master/onlybanAD.acl
-* ACL更新地址（**仅GFWList**）：https://raw.githubusercontent.com/AbnerEarl/AclGFW/master/fullgfwlist.acl （原版SS**能且仅能**使用此规则）
-* ACL更新地址（**国内代理**）：https://raw.githubusercontent.com/AbnerEarl/AclGFW/master/backcn-banAD.acl
-* ACL更新地址（**白名单，无去广告**）：https://raw.githubusercontent.com/AbnerEarl/AclGFW/master/nobanAD.acl
-* SSR C# GFWList user.rule ：https://raw.githubusercontent.com/AbnerEarl/AclGFW/master/gfwlist-user.rule
+* ACL更新地址（**白名单**）：https://raw.githubusercontent.com/AbnerEarl/AclGFW/master/Acl/banAD.acl
+* ACL更新地址（**黑名单**）：https://raw.githubusercontent.com/AbnerEarl/AclGFW/master/Acl/gfwlist-banAD.acl
+* ACL更新地址（**全局**）：https://raw.githubusercontent.com/AbnerEarl/AclGFW/master/Acl/onlybanAD.acl
+* ACL更新地址（**仅GFWList**）：https://raw.githubusercontent.com/AbnerEarl/AclGFW/master/Acl/fullgfwlist.acl （原版SS**能且仅能**使用此规则）
+* ACL更新地址（**国内代理**）：https://raw.githubusercontent.com/AbnerEarl/AclGFW/master/Acl/backcn-banAD.acl
+* ACL更新地址（**白名单，无去广告**）：https://raw.githubusercontent.com/AbnerEarl/AclGFW/master/Acl/nobanAD.acl
+* SSR C# GFWList user.rule ：https://raw.githubusercontent.com/AbnerEarl/AclGFW/master/Acl/gfwlist-user.rule
 
 
 # Root手机推荐：
